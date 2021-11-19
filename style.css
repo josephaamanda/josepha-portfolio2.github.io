@@ -12,7 +12,7 @@ body {
 	width: 500px;
 	height: 380px;
 	margin: 90px auto;
-	border-radius: 5px 5px 5px 5px;
+	border-radius: 5px;
 	box-shadow: 0 7px 7px rgba(0, 0, 0, 0.1);
 }
 
@@ -36,7 +36,7 @@ h1 {
 	font-size: 13px;
 	padding-left: 30px;
 	padding-right: 30px;
-	padding-bottom: 20px;
+	padding-bottom: 19px;
 	line-height: 20px;
 }
 
@@ -138,5 +138,3 @@ h1 {
 		border-radius: 0 0 5px 5px;
 	}
 }
-
-
